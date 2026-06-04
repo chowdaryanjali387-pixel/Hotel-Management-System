@@ -6,4 +6,4 @@
 
 *REAL-TIME PROJECT
 
-## IN OOUR COLLEGE AS A PART OF REAL-TIME PROJECT I HAVE CREATED A HOTEL MANAGEMENT SYSTEM.I HAVE USED SOME ONLINE TUTORIALS FOR IDEA BUILD UP.I HAVE USED SOFTWARES LIKE : Operating system:windows 10/11 , python 3.x , mysql database , tkinter library,  pillow library , tkcalendar .
+## IN OUR COLLEGE AS A PART OF REAL-TIME PROJECT I HAVE CREATED A HOTEL MANAGEMENT SYSTEM.I HAVE USED SOME ONLINE TUTORIALS FOR IDEA BUILD UP.I HAVE USED SOFTWARES LIKE : Operating system:windows 10/11 , python 3.x , mysql database , tkinter library,  pillow library , tkcalendar .
