@@ -5,5 +5,5 @@
 *NAME : CHOWDARY ANJALI
 
 *REAL-TIME PROJECT
-
-## IN OUR COLLEGE AS A PART OF REAL-TIME PROJECT I HAVE CREATED A HOTEL MANAGEMENT SYSTEM.I HAVE USED SOME ONLINE TUTORIALS FOR IDEA BUILD UP.I HAVE USED SOFTWARES LIKE : Operating system:windows 10/11 , python 3.x , mysql database , tkinter library,  pillow library , tkcalendar .
+ A
+## In our college as a part of Real-Time project I have done a project named Hotel Mangement System .I have used some online tutorials Tfor idea build up.I have used some softwares like : Operating system:windows 10/11 , python 3.x , mysql database , tkinter library,  pillow library , tkcalendar .
